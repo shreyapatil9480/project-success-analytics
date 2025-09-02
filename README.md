@@ -49,3 +49,7 @@ Feel free to modify the dataset generation logic, add more features, or experime
 ## License
 
 This project is released under the MIT License. The dataset is synthetic and does not contain any real or personally identifiable information.
+
+
+## Notes
+This project is intended for demonstration and learning purposes. The synthetic dataset and analysis notebook provide a safe environment to practice data analysis techniques without exposing real project data. Feel free to adapt the notebook and dataset to suit your own learning objectives or project requirements.
